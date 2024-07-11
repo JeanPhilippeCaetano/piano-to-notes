@@ -1,0 +1,18 @@
+absl-py==1.4.0
+flax @ git+https://github.com/google/flax#egg=flax
+immutabledict==4.2.0
+jax==0.4.30
+librosa==0.10.2.post1
+mir-eval==0.7
+note-seq @ git+https://github.com/magenta/note-seq
+numpy==1.25.2
+pretty-midi==0.2.10
+scikit-learn==1.2.2
+scipy==1.11.4
+seqio @ git+https://github.com/google/seqio
+seqio-nightly==0.0.18.dev20240709
+types-setuptools==70.2.0.20240704
+t5==0.9.4
+t5x @ git+https://github.com/google-research/t5x
+tensorflow>=2.16.1,<2.17
+tensorflow-cpu==2.16.2
